@@ -45,7 +45,9 @@ The **FALCON-II** is a high-speed, scratch-designed experimental scale Supersoni
 
 ## Airframe Materials List
    
-   to be researched---
+   to be researched
+   
+---
 
 ## Electronics & Propulsion Strategy
 TBD
